@@ -1,5 +1,19 @@
 This is an application built by Ayomide Joysbright Oyediran for 3line
 
+Providers Services
+URL - http://providers.us-east-1.elasticbeanstalk.com/
+DOC -  http://providers.us-east-1.elasticbeanstalk.com/swagger-ui/
+ 
+
+Customer Services
+URL -  http://3line-customers.us-east-1.elasticbeanstalk.com/
+DOC -  http://3line-customers.us-east-1.elasticbeanstalk.com/swagger-ui/
+ 
+ 
+Git URL - https://github.com/Oyejoysbright/3line-challenge.git
+ 
+ 
+
 MAIN LIBRARIES
 * JDK 11
 * MVN 3.6.3
