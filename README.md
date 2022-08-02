@@ -6,7 +6,6 @@ MAIN LIBRARIES
 * Springboot 2.5.7
 
 OTHER MAJOR LIBRARIES
-* JFoenix-9.0.10 for GUI components
 * Lombok- for Avoiding boilerplate codes
 * Jackson (core and databind) for processing JSON
 * Swagger-UI for Rest API documentation
